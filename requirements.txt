@@ -2,3 +2,4 @@ pydub
 praat-parselmouth
 matplotlib
 numpy
+scipy
