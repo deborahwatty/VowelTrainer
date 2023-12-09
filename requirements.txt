@@ -1,2 +1,5 @@
 pydub
 praat-parselmouth
+matplotlib
+tempfile
+numpy
