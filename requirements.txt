@@ -1,2 +1,2 @@
 pydub
-parselmouth
+praat-parselmouth
