@@ -3,3 +3,4 @@ praat-parselmouth
 matplotlib
 numpy
 scipy
+ffmpeg
