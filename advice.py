@@ -36,7 +36,7 @@ def adjust_mouth_position(reference, learner):
             elif result == 'too high':
                 f1_adjustment += f"Your F1 is {result}. Close your mouth slightly and/or raise your tongue position to decrease F1.\n"
             else:
-                f1_adjustment += f"Your F1 is {result}. Maintain the current mouth and tongue position for F1.\n"
+                f1_adjustment += f"Your F1 is {result}. Maintain the current tongue height for F1.\n"
         elif 'average_f2' in prop:
             if result == 'too low':
                 f2_adjustment += f"Your F2 is {result}. Position the tongue closer to the front of the mouth to increase F2.\n"
